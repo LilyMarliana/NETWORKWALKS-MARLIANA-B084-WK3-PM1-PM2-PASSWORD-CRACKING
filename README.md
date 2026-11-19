@@ -67,17 +67,17 @@ Not required, but I wanted more reps with the JTR + Johnny workflow before movin
 
 **PDF2** — same hash-extract-and-crack process as PM1:
 
-![PDF2 hash](<(Extra) PDF2/01_Extra_PDF2_HashExtracted.png>)
-![PDF2 cracked](<(Extra) PDF2/02_Extra_PDF2_Johnny_Cracked.png>)
-![PDF2 opened](<(Extra) PDF2/03_Extra_PDF2_PDF_Opened.png>)
+![PDF2 hash](<screenshot/(Extra) PDF2/01_Extra_PDF2_HashExtracted.png>)
+![PDF2 cracked](<screenshot/(Extra) PDF2/02_Extra_PDF2_Johnny_Cracked.png>)
+![PDF2 opened](<screenshot/(Extra) PDF2/03_Extra_PDF2_PDF_Opened.png>)
 
 Password found: `password1`
 
 **PDF3** — needed a bigger wordlist than the first two; `fasttrack.txt` didn't have it, so I switched to `JTR_default_password.txt`:
 
-![PDF3 hash](<(Extra) PDF3/01_Extra_PDF3_HashExtracted.png>)
-![PDF3 cracked](<(Extra) PDF3/02_Extra_PDF3_Johnny_Cracked.png>)
-![PDF3 opened](<(Extra) PDF3/03_Extra_PDF3_PDF_Opened.png>)
+![PDF3 hash](<screenshot/(Extra) PDF3/01_Extra_PDF3_HashExtracted.png>)
+![PDF3 cracked](<screenshot/(Extra) PDF3/02_Extra_PDF3_Johnny_Cracked.png>)
+![PDF3 opened](<screenshot/(Extra) PDF3/03_Extra_PDF3_PDF_Opened.png>)
 
 Password found: `1qaz2wsx`
 
